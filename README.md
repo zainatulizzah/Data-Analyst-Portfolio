@@ -1,8 +1,8 @@
-# 🎯 Data Analyst Portfolio - Izzah
+# Zainatul Izzah - Data Analyst Portfolio
 
 Hi, I'm Izzah! I hold a **PhD in Nanomaterial Science**, and I'm currently transitioning into the world of **Data Science**. With a strong analytical background rooted in scientific research, I’ve developed a deep appreciation for the power of data to drive innovation and discovery.
 
-Throughout my academic journey, I worked with complex datasets, cutting-edge instrumentation, and rigorous statistical methods — all of which sparked my passion for data-driven problem-solving. Now, I’m channeling that energy into a career as an entry-level **Data Specialist**.
+Throughout my academic journey, I worked with complex datasets and rigorous statistical methods — all of which sparked my passion for data-driven problem-solving. Now, I’m channeling that energy into a career as an entry-level **Data Analyst**.
 
 🔬 From lab work to data work, I’ve:
 - Handled messy, multi-dimensional datasets
@@ -24,7 +24,7 @@ Whether collaborating with a team or diving into solo analysis, I’m driven by 
 
 ## 🔧 Skills
 
-- **Tools**: Excel, Power BI, SQL, Python (learning), Canva (for visual polish!)
+- **Tools**: Excel, Power BI, SQL, Python (learning)
 - **Data Wrangling**: Cleaning messy data and making it useful
 - **Visualization**: Building dashboards that *actually* make sense
 - **Storytelling**: Turning data into insights people care about
